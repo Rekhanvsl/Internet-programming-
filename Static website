@@ -1,0 +1,65 @@
+<html>
+
+<head>
+
+<title>portfolio</title>
+
+</head>
+
+<body style="color:black"> <img src="C:\Users\User\Documents\images.jpg">
+
+<h2>NAME:</h2> K Sai Yagnitha
+
+<h2>EDUCATION/QUALIFICATION:</h2>
+
+<ol>
+
+<li>SRI CHAITANYA</li> Intermediate score:958
+
+<li><i>SIMATS</i></li> Saveetha school of engineering
+
+BE CSE
+
+</ol>
+
+<h2>SKILLS:</h2>
+
+<ol>
+
+<li>java</li>
+
+<li>c program</li> <li>phyton</li>
+
+I
+
+</ol>
+
+<h2><u>TECHNICAL SKILLS:</u></h2>
+
+<ul type="square">
+
+<li>problem solving</li>
+
+<li>Data structures</li> <li>HTML</li>
+
+<li>CSS</li>
+
+</ul>
+
+<h2>EXPERIENCE:</h2>
+
+<ul>
+
+<11>AMAZON</li>
+
+Jan2023
+
+SDE Intern project upon first time quality project
+
+<11>INFOSYS</li>
+
+Intern as project developer
+
+</ul>
+</body>
+</html>
